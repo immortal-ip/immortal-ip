@@ -10,8 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python<br></p>
+<p align="left">✨ Creating bugs since 2019<br>
+</p>
 
 ###
 
 <h2 align="left">I code with</h2>
+
+<p align="left">
+🐍 Python &nbsp;&nbsp;
+🌐 Flask
+</p>
