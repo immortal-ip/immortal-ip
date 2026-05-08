@@ -1,72 +1,195 @@
-````md
-# <div align="center">Akshay Jaat ⚡</div>
-
 <div align="center">
 
-<img src="https://github.com/YOUR_USERNAME.png" width="220"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AKSHAY+JAAT;PYTHON+DEVELOPER;TOOLS+DEVELOPER;AUTOMATION+ENTHUSIAST;IMMORTAL-IP" />
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+🐍;Tools+Developer+🛠️;Discord+Bot+Creator+🤖;Automation+Enthusiast+⚡" />
+<img src="https://i.pinimg.com/originals/8d/4d/7b/8d4d7b7a5d4d8e4f2e4b2d5b8e9f6c2a.gif" width="260"/>
+
+# ⚡ AKSHAY JAAT
+
+### 💻 PYTHON DEVELOPER | ⚡ TOOLS DEVELOPER | 🚀 AUTOMATION ENTHUSIAST
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,html,css,js,bash&theme=dark" />
 
 </div>
 
 ---
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Discord](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-</div>
-
----
-
-# ⚡ About Me
+# 👨‍💻 ABOUT ME
 
 ```yaml
-Name      : Akshay Jaat
-Role      : Python Developer
-Focus     : Tools & Automation
-OS        : Windows
-Started   : 2019
-Goal      : Build Powerful Projects
-````
+name: Akshay Jaat
+
+role: Python Developer
+
+focus: Tools & Automation
+
+speciality: Tool Development
+
+language: Python
+
+editor: VS Code
+
+os: Windows
+
+started: 2019
+
+goal: Build Powerful Projects & Useful Tools
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,discord,html,css,javascript,bash"/>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+<br>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=windows" width="70"/>
+<br>Windows
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+<br>VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
+<br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
+<br>GitHub
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="70"/>
+<br>HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="70"/>
+<br>CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="70"/>
+<br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="70"/>
+<br>Bash
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 💻 Coding Mode
+# ⚡ CODING MODE
 
 ```python
 while True:
+
     code()
+
     build_tools()
+
     automate()
+
+    improve()
+
     repeat()
+
+# 🚀 Never Stop Building
 ```
 
 ---
 
-# 📊 GitHub Stats
+# ❤️ WHAT I LOVE
+
+```diff
++ Building Useful Tools
++ Automation Projects
++ Clean & Efficient Code
++ Creating Powerful Systems
++ Turning Ideas Into Reality
+```
+
+---
+
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Immortal-ip&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Immortal-ip&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Immortal-ip&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Immortal-ip">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
+
+<a href="https://instagram.com/ig.akshayjaat">
+<img src="https://skillicons.dev/icons?i=instagram" width="60"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60"/>
+</a>
+
+</div>
+
+---
+
+# 🛠 CURRENTLY WORKING ON
+
+```yaml
+- Advanced Python Tools
+- Automation Systems
+- GitHub UI Designs
+- Custom Utilities
+- Powerful Development Projects
+```
+
+---
+
+# 🧠 MOTIVATION
+
+<div align="center">
+
+# 💻 CODE • CREATE • AUTOMATE • REPEAT 🚀
 
 </div>
 
@@ -74,7 +197,6 @@ while True:
 
 <div align="center">
 
-## ⚡ Code • Create • Repeat ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00bfff&height=160&section=footer"/>
 
 </div>
-```
