@@ -1,68 +1,38 @@
-<h1 align="center">Hey 👋 I'm Akshay Jaat</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Akshay+Jaat;Python+Developer+🐍;Bug+Hunter+🛡️;Flask+Developer+⚡;Cyber+Security+Explorer+🚀" />
+</h1>
 
-<h3 align="center">🐍 Python Developer | 🛡️ Bug Hunter | 🌐 Flask Dev | 🚀 Exploring Cyber Security</h3>
+<div align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" height="90"/>
+
+</div>
+
+<h3 align="center">
+  💻 Devplor • 🛡️ Security Learner • ⚡ Automation Lover • 🚀 Future Security Researcher
+</h3>
 
 ---
 
 <div align="center">
 
-🔥 Passionate about building cool stuff with Python  
-🛠️ Creating projects, tools & bugs since 2019  
-🧠 Learning Web Development & Security Research  
-⚡ Interested in Automation, APIs, Discord Bots & Bug Hunting  
-🌍 From Haryana, India  
+<img src="https://img.shields.io/badge/Focus-Bug%20Hunting-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </div>
 
 ---
 
-<h2 align="left">💫 About Me</h2>
+<h2 align="left">⚔️ About Me</h2>
 
-<p align="left">
+<img align="right" height="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-✨ Turning ideas into code  
-🐍 Currently mastering Python & Flask  
-🛡️ Exploring Bug Hunting & Web Security  
-🤖 Building Advanced Discord Bots  
-🚀 Love creating automation tools and APIs  
-🎯 Goal: Become a professional Security Researcher & Full Stack Developer  
-
-</p>
-
----
-
-<h2 align="left">⚔️ Tech Stack</h2>
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" alt="python logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="65" alt="flask logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="linux logo" />
-
-</div>
-
----
-
-<h2 align="left">🛡️ Bug Hunter Mindset</h2>
-
-```bash
-> Finding vulnerabilities...
-> Testing security...
-> Breaking to secure 🔥
-> Learning never stops 🚀
+```yaml
+Name: Akshay Jaat
+Role: Python Developer & Bug Hunter
+Location: Haryana, India
+Learning: Python • Flask • APIs • Security
+Experience: Creating bugs since 2019 😈
+Goal: Become Elite Security Researcher 🚀
