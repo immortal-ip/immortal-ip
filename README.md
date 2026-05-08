@@ -1,8 +1,9 @@
+````md
 # <div align="center">Akshay Jaat ⚡</div>
 
 <div align="center">
 
-<img src="YOUR_AVATAR_LINK_HERE" width="220" style="border-radius:20px;" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/avatar.png" width="220" />
 
 <br><br>
 
@@ -15,8 +16,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Tools%20Developer-111111?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Discord%20Bot%20Creator-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
@@ -34,7 +38,7 @@
 🖥️ OS        : Windows
 🔥 Started   : Creating Bugs Since 2019
 🚀 Goal      : Build Powerful Tools & Projects
-```
+````
 
 ---
 
@@ -147,3 +151,4 @@ class AkshayJaat:
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Coding+🚀;Keep+Building+⚡;Never+Stop+Learning+🔥" />
 
 </div>
+```
