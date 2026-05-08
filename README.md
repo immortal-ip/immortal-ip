@@ -1,25 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Akshay+Jaat;Python+Developer+🐍;Bug+Hunter+🛡️;Flask+Developer+⚡;Cyber+Security+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Akshay+Jaat;Python+Developer+🐍;Discord+Bot+Developer+🤖;Flask+Framework+⚡;Always+Learning+🚀" />
 </h1>
 
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" height="90"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" height="100"/>
 
 </div>
 
 <h3 align="center">
-  💻 Devplor • 🛡️ Security Learner • ⚡ Automation Lover • 🚀 Future Security Researcher
+  💻 Devplor • ⚡ Python Enthusiast • 🤖 Bot Developer • 🚀 Creative Coder
 </h3>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Bug%20Hunting-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framework-Python-success?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </div>
 
@@ -31,8 +31,9 @@
 
 ```yaml
 Name: Akshay Jaat
-Role: Python Developer & Bug Hunter
-Location: Haryana, India
-Learning: Python • Flask • APIs • Security
+Role: Python Developer
+Platform: Windows
+Learning: Python • APIs • Flask
 Experience: Creating bugs since 2019 😈
-Goal: Become Elite Security Researcher 🚀
+Speciality: Discord Bots & Automation
+Goal: Build insane projects 🚀
