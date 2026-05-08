@@ -75,53 +75,14 @@ goal: Build Powerful Projects & Useful Tools
 </td>
 
 </tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="70"/>
-<br>HTML
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="70"/>
-<br>CSS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="70"/>
-<br>JavaScript
-</td>
-
 <td align="center">
 <img src="https://skillicons.dev/icons?i=bash" width="70"/>
 <br>Bash
 </td>
 
-</tr>
 </table>
 
 </div>
-
----
-
-# ⚡ CODING MODE
-
-```python
-while True:
-
-    code()
-
-    build_tools()
-
-    automate()
-
-    improve()
-
-    repeat()
-
-# 🚀 Never Stop Building
-```
 
 ---
 
