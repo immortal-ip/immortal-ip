@@ -122,7 +122,7 @@ goal: Build Powerful Projects & Useful Tools
 <img src="https://skillicons.dev/icons?i=instagram" width="60"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:bhambhugamer@gmail.com">
 <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60"/>
 </a>
 
