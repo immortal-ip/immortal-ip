@@ -45,10 +45,7 @@ goal: Build Powerful Projects & Useful Tools
 + Creating Powerful Systems
 + Turning Ideas Into Reality
 ```
-
----
-
-# 📊 GITHUB STATS
+# GITHUB STATS
 
 <div align="center">
 
