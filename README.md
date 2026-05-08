@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AKSHAY+JAAT;PYTHON+DEVELOPER;TOOLS+DEVELOPER;AUTOMATION+ENTHUSIAST;IMMORTAL-IP" />
-
 <br>
-
-<img src="https://i.pinimg.com/originals/8d/4d/7b/8d4d7b7a5d4d8e4f2e4b2d5b8e9f6c2a.gif" width="260"/>
 
 # ⚡ AKSHAY JAAT
 
@@ -139,15 +135,11 @@ goal: Build Powerful Projects & Useful Tools
 ```yaml
 - Advanced Python Tools
 - Automation Systems
-- GitHub UI Designs
 - Custom Utilities
 - Powerful Development Projects
 ```
 
 ---
-
-# 🧠 MOTIVATION
-
 <div align="center">
 
 # 💻 CODE • CREATE • AUTOMATE • REPEAT 🚀
