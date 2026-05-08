@@ -36,52 +36,6 @@ started: 2019
 goal: Build Powerful Projects & Useful Tools
 ```
 
----
-
-# 🚀 TECH STACK
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-<br>Python
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=windows" width="70"/>
-<br>Windows
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
-<br>VS Code
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="70"/>
-<br>Git
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
-<br>GitHub
-</td>
-
-</tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" width="70"/>
-<br>Bash
-</td>
-
-</table>
-
-</div>
-
----
-
 # ❤️ WHAT I LOVE
 
 ```diff
