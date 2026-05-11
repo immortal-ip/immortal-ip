@@ -34,17 +34,7 @@ os: Windows
 started: 2019
 
 goal: Build Powerful Projects & Useful Tools
-```
 
-# ❤️ WHAT I LOVE
-
-```diff
-+ Building Useful Tools
-+ Automation Projects
-+ Clean & Efficient Code
-+ Creating Powerful Systems
-+ Turning Ideas Into Reality
-```
 # GITHUB STATS
 
 <div align="center">
