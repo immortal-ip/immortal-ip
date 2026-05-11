@@ -34,7 +34,7 @@ os: Windows
 started: 2019
 
 goal: Build Powerful Projects & Useful Tools
-
+```
 # GITHUB STATS
 
 <div align="center">
