@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,html,css,js,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,bash&theme=dark" />
 
 </div>
 
@@ -78,18 +78,6 @@ goal: Build Powerful Projects & Useful Tools
 </a>
 
 </div>
-
----
-
-# 🛠 CURRENTLY WORKING ON
-
-```yaml
-- Advanced Python Tools
-- Automation Systems
-- Custom Utilities
-- Powerful Development Projects
-```
-
 ---
 <div align="center">
 
