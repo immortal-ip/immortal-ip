@@ -2,10 +2,9 @@
 
 <br>
 
-# ⚡ AKSHAY JAAT
+# *Akshay Jaat*
 
-### 💻 PYTHON DEVELOPER | ⚡ TOOLS DEVELOPER | 🚀 AUTOMATION ENTHUSIAST
-
+### PYTHON DEVELOPER | TOOLS DEVELOPER 
 <br>
 
 <img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,flask&theme=dark" />
@@ -14,7 +13,7 @@
 
 ---
 
-# 👨‍💻 ABOUT ME
+# _*About Me*_
 
 _Name_: _Akshay Jaat_
 
@@ -30,8 +29,8 @@ _Started: 2019_
 
 _Goal : Build Powerful Projects & Useful Tools_
 
-```
-# GITHUB STATS
+
+# _Stats_
 
 <div align="center">
 
@@ -47,7 +46,7 @@ _Goal : Build Powerful Projects & Useful Tools_
 
 ---
 
-# 🌐 CONNECT WITH ME
+#  _My Social_
 
 <div align="center">
 
@@ -67,7 +66,7 @@ _Goal : Build Powerful Projects & Useful Tools_
 ---
 <div align="center">
 
-# 💻 CODE • CREATE • AUTOMATE • REPEAT 🚀
+# 💻 Code • Create • Automate • Repeat 
 
 </div>
 
