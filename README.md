@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,windows,vscode,git,github,flask&theme=dark" />
 
 </div>
 
