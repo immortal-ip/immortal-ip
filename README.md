@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 # _*About Me*_
 
@@ -37,7 +37,7 @@ _Goal : Build Powerful Projects & Useful Tools_
 
 </div>
 
----
+
 
 #  _My Social_
 
@@ -56,7 +56,7 @@ _Goal : Build Powerful Projects & Useful Tools_
 </a>
 
 </div>
----
+
 <div align="center">
 
 # 💻 Code • Create • Automate • Repeat 
