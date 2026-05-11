@@ -16,24 +16,20 @@
 
 # 👨‍💻 ABOUT ME
 
-```yaml
-name: Akshay Jaat
+_Name_: _Akshay Jaat_
 
-role: Python Developer
+_Role : Python Developer_
 
-focus: Tools & Automation
+_language: Python_
 
-speciality: Tool Development
+_Editor: VS Code_
 
-language: Python
+_Os: Windows_
 
-editor: VS Code
+_Started: 2019_
 
-os: Windows
+_Goal : Build Powerful Projects & Useful Tools_
 
-started: 2019
-
-goal: Build Powerful Projects & Useful Tools
 ```
 # GITHUB STATS
 
