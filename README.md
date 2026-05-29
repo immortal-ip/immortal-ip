@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509777865716007022/110a8398e163a45694fb2bd050638d48.png?ex=6a1a69b5&is=6a191835&hm=8254c620d35dd8b2b422c2c437eb0f10deb16c67a0ea6dddf7eb800df78a5ff7" width="100%"/>
+<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509798641877909514/6cb6b8a182747f3d5120bf2a04ef89af.png?ex=6a1a7d0e&is=6a192b8e&hm=2deb5f64716331540db9dedd35b986876fb94ae35e8641dd479209a8ee310bd4" width="100%"/>
 
 # Akshay
 
