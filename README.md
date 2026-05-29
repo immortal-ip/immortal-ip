@@ -4,7 +4,7 @@
 
 # Akshay
 
-### Python Developer • Discord Bot Developer • Tools Developer
+### Python | Discord Dev | Tools Developer
 
 Building useful projects with Python.
 
@@ -20,12 +20,12 @@ Building useful projects with Python.
 
 ---
 
-## 💻 About Me
+## About Me
 
-- 🐍 Python Developer
-- 🤖 Discord Bot Developer
-- 🛠️ Tools Developer
-- 🚀 Learning & Building Every Day
+-  Python Developer
+-  Discord Bot Developer
+-  Tools Developer
+-  Learning & Building Every Day
 
 ---
 
