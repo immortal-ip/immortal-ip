@@ -1,101 +1,80 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AKSHAY;PYTHON+DEVELOPER;DISCORD+BOT+DEVELOPER;TOOLS+DEVELOPER;AUTOMATION+ENGINEER;BUILDING+THE+FUTURE+WITH+CODE" />
+# ⚡ IMMORTAL-IP ⚡
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=PYTHON+DEVELOPER;DISCORD+BOT+DEVELOPER;TOOLS+DEVELOPER;AUTOMATION+ENGINEER;SYSTEM+ONLINE" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AKSHAY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=IMMORTAL-IP&fontColor=00F7FF&fontSize=65&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+```bash
+> Booting Developer Profile...
 
-```yaml
-Name: Akshay
-Username: immortal-ip
-Role: Developer
+[████████████████████] 100%
 
-Languages:
-  - Python
-
-Specialization:
-  - Discord Bot Development
-  - Automation Tools
-  - Backend Development
-  - APIs
-
-Status: Online
+Status     : ONLINE
+Username   : immortal-ip
+Role       : Developer
+Language   : Python
+Focus      : Discord Bots & Automation
+Version    : v2.0
 ```
 
 ---
 
-# 🧑‍💻 ABOUT ME
+## 🧠 DEVELOPER DATA
 
 ```python
-class Akshay:
+class Developer:
 
     def __init__(self):
+        self.name = "Akshay"
         self.username = "immortal-ip"
-        self.role = "Developer"
+        self.role = "Python Developer"
 
     def skills(self):
         return [
-            "Python",
             "Discord Bots",
             "Automation",
-            "Backend Development"
+            "Backend Development",
+            "Security Systems",
+            "APIs"
         ]
 
-    def current_focus(self):
-        return "Building Powerful Projects"
+    def status(self):
+        return "Building Legendary Projects"
 
-me = Akshay()
+dev = Developer()
 
-print(me.current_focus())
+print(dev.status())
 ```
 
 ---
 
-# 🚀 TECH STACK
+## ⚔ TECH ARSENAL
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,sqlite,linux"/>
-
-</div>
-
----
-
-# ⚙ SPECIALIZATION
-
-```txt
-✓ Discord Bot Development
-✓ Python Applications
-✓ Security Systems
-✓ Automation Tools
-✓ Backend Development
-✓ Database Management
-✓ Open Source Projects
-✓ API Integration
-```
+</p>
 
 ---
 
-# 📊 GITHUB STATS
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=immortal-ip&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=immortal-ip&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=immortal-ip&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=immortal-ip&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -105,71 +84,56 @@ print(me.current_focus())
 
 ---
 
-# 🏆 ACHIEVEMENTS
+## 🏆 TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=immortal-ip&theme=tokyonight&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=immortal-ip&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🎯 CURRENT OBJECTIVES
+## 🎯 CURRENT QUESTS
 
-```txt
-[✓] Build Advanced Discord Bots
-[✓] Create Automation Tools
-[✓] Learn New Technologies
-[✓] Improve Problem Solving
-[✓] Contribute To Open Source
-[✓] Build Scalable Systems
+```diff
++ Building Advanced Discord Bots
++ Creating Automation Systems
++ Learning New Technologies
++ Solving Complex Problems
++ Developing Powerful Tools
 ```
 
 ---
 
-# 🌐 CONNECT
+## ⚡ SYSTEM METRICS
 
-<div align="center">
-
-<a href="https://github.com/immortal-ip">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+```yaml
+Coding:          ██████████████ 95%
+Problem Solving: █████████████  90%
+Python:          ██████████████ 95%
+Discord Bots:    ██████████████ 98%
+Creativity:      █████████████  92%
+```
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ BUILD • CODE • AUTOMATE • REPEAT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer;Discord+Bot+Developer;Tools+Developer;Automation+Engineer;Always+Learning;Always+Building"/>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=immortal-ip&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+### ⚡ BUILD • CODE • AUTOMATE • REPEAT ⚡
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Never+Stop+Building;Never+Stop+Learning;Never+Stop+Improving" />
 
----
+<br><br>
 
-<div align="center">
-
-### 💻 Turning Ideas Into Reality Through Code
+![](https://komarev.com/ghpvc/?username=immortal-ip&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)
 
 </div>
