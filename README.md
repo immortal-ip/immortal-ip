@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509798641877909514/6cb6b8a182747f3d5120bf2a04ef89af.png" width="220"/>
+<img src="https://cdn.discordapp.com/attachments/1509922185722990704/1510491298979905596/Ayanokoji.jpg?ex=6a1d0225&is=6a1bb0a5&hm=215715f244cc16fae1cffba8f9d9dcfd5e93d19a8d5e298f402f4de91ce72c80" width="220"/>
 
 # ᴀᴋsʜᴀʏ
 
@@ -27,18 +27,6 @@
 * ᴅɪsᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 * ᴛᴏᴏʟs & ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ
 * ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ sᴛᴜғғ ғᴏʀ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ
-
----
-
-## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=immortal-ip&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-ip&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
