@@ -1,32 +1,50 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509798641877909514/6cb6b8a182747f3d5120bf2a04ef89af.png?ex=6a1a7d0e&is=6a192b8e&hm=2deb5f64716331540db9dedd35b986876fb94ae35e8641dd479209a8ee310bd4" width="40%"/>
+<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509798641877909514/6cb6b8a182747f3d5120bf2a04ef89af.png" width="220"/>
 
-# Akshay Jaat
+# ᴀᴋsʜᴀʏ
 
-### Python | Discord Dev | Tools Developer
+### ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ • ᴅɪsᴄᴏʀᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ • ᴛᴏᴏʟs ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
-Building useful projects with Python.
+ʙᴜɪʟᴅɪɴɢ ᴜsᴇғᴜʟ ᴘʀᴏᴊᴇᴄᴛs ᴡɪᴛʜ ᴘʏᴛʜᴏɴ 🐍
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+##  ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,github,git,vscode," />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,github,git,vscode,windows" />
 
-## About Me
-
--  Python Developer
--  Discord Bot Developer
--  Tools Developer
--  Learning & Building Every Day
+</div>
 
 ---
 
-# Peace !
+##  ᴀʙᴏᴜᴛ ᴍᴇ
+* ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+* ᴅɪsᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+* ᴛᴏᴏʟs & ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ
+* ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ sᴛᴜғғ ғᴏʀ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ
+
+---
+
+## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=immortal-ip&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-ip&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ᴄᴏᴅᴇ • ᴄʀᴇᴀᴛᴇ • ɪᴍᴘʀᴏᴠᴇ
+
+
+</div>
