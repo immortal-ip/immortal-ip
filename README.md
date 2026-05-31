@@ -15,7 +15,7 @@ Building useful projects with Python.
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,git,vscode,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,github,git,vscode," />
 </p>
 
 ---
@@ -29,28 +29,4 @@ Building useful projects with Python.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immortal-ip&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immortal-ip" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immortal-ip&theme=github" />
-</p>
-
----
-
-<div align="center">
-
-### Keep Building 🚀
-
-</div>
+# Peace !
