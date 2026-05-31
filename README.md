@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509798641877909514/6cb6b8a182747f3d5120bf2a04ef89af.png?ex=6a1a7d0e&is=6a192b8e&hm=2deb5f64716331540db9dedd35b986876fb94ae35e8641dd479209a8ee310bd4" width="60%"/>
+<img src="https://cdn.discordapp.com/attachments/1505078032975528049/1509798641877909514/6cb6b8a182747f3d5120bf2a04ef89af.png?ex=6a1a7d0e&is=6a192b8e&hm=2deb5f64716331540db9dedd35b986876fb94ae35e8641dd479209a8ee310bd4" width="40%"/>
 
 # Akshay Jaat
 
