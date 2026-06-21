@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://cdn.discordapp.com/attachments/1509922185722990704/1510491298979905596/Ayanokoji.jpg?ex=6a1d0225&is=6a1bb0a5&hm=215715f244cc16fae1cffba8f9d9dcfd5e93d19a8d5e298f402f4de91ce72c80" width="220"/>
-
 # ᴀᴋsʜᴀʏ ᴊᴀᴀᴛ
 
 ### ᴘʏᴛʜᴏɴ ᴅᴇᴠ | ᴅɪsᴄᴏʀᴅ ᴅᴇᴠ | ᴛᴏᴏʟs ᴅᴇᴠ
