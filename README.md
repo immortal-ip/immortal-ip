@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:4F46E5,100:7C3AED&text=AKSHAY JAAT&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Python%20Developer%20•%20Discord%20Developer&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:4F46E5,100:7C3AED&text=AKSHAY%20JAAT&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Python%20Developer%20•%20Discord%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+Modern+Discord+Applications;Python+Developer;Backend+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-<a href="https://github.com/immortal-ip">
-<img src="https://img.shields.io/badge/GitHub-immortal--ip-181717?style=flat-square&logo=github"/>
-</a>
+  <a href="https://github.com/immortal-ip">
+    <img src="https://img.shields.io/badge/GitHub-immortal--ip-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -36,21 +36,21 @@ I enjoy writing clean, scalable, and maintainable code while constantly explorin
 
 # What I Build
 
-```
-Discord Applications
-Backend APIs
-Automation Tools
-Open Source Projects
-Modern Web Applications
+```text
+• Discord Applications
+• Backend APIs
+• Automation Tools
+• Open Source Projects
+• Modern Web Applications
 ```
 
 ---
 
 # Philosophy
 
-> Simplicity creates reliability.
+> *"Simplicity creates reliability."*
 
-> Great software is built with patience, consistency, and attention to detail.
+> *"Great software is built with patience, consistency, and attention to detail."*
 
 ---
 
@@ -59,7 +59,7 @@ Modern Web Applications
 <p align="center">
 
 <a href="https://github.com/immortal-ip">
-GitHub
+  <img src="https://img.shields.io/badge/GitHub-immortal--ip-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -70,7 +70,7 @@ GitHub
 
 ### Thanks for visiting.
 
-*"Build. Improve. Repeat."*
+*Build. Improve. Repeat.*
 
 </div>
 
