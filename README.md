@@ -1,4 +1,4 @@
-<h1 align="center">Akshay</h1>
+<h1 align="center">Akshay Jaat</h1>
 
 <p align="center">
   <strong>Python Developer</strong> • <strong>Discord Bot Developer</strong>
