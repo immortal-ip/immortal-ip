@@ -26,7 +26,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,discord,js,html,css,git,vscode" />
 </p>
----
 
 <div align="center">
 
