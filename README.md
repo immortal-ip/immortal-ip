@@ -1,27 +1,47 @@
 ```md
-# 👋 Hi, I'm Akshay
+<div align="center">
 
-💻 Python Developer • 🤖 Discord Bot Developer • 🌐 Web Developer
+# ʜɪ, ɪ'ᴍ **ᴀᴋsʜᴀʏ** 👋
 
-I'm passionate about building Discord bots, automation tools, and modern web applications with Python.
+### 🐍 ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ • 🤖 ᴅɪsᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠ
 
-## 🚀 Tech Stack
-- 🐍 Python
-- 🌐 HTML • CSS • JavaScript
-- 🤖 Discord.py
-- 🔧 Git & GitHub
-- 💻 VS Code
+> *"Building useful projects, one line of code at a time."*
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=immortal-ip&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-ip&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📫 Connect
-
-- GitHub: https://github.com/immortal-ip
+</div>
 
 ---
-⭐ *Thanks for visiting my profile!*
+
+## 💫 About Me
+
+- 🐍 Python Developer
+- 🤖 Building Discord Bots
+- 🌐 Learning Web Development
+- 🚀 Exploring AI & Automation
+- 📚 Always learning new technologies
+
+---
+
+## ⚡ Tech Stack
+
+`Python` • `Discord.py` • `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub`
+
+---
+
+## 🚧 Current Focus
+
+✨ Multipurpose Discord Bots  
+🎵 Music Bots  
+⚙️ Automation Projects
+
+---
+
+<div align="center">
+
+### 🌙 「 ᴄᴏᴅᴇ • ʙᴜɪʟᴅ • ɪᴍᴘʀᴏᴠᴇ 」
+
+**GitHub:** https://github.com/immortal-ip
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
 ```
