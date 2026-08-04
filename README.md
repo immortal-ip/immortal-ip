@@ -26,13 +26,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,discord,js,html,css,git,vscode" />
 </p>
-
-## 🎯 Current Projects
-
-- 🎵 Hinox Music Bot
-- 🤖 Multipurpose Discord Bot
-- 🌍 Personal Projects
-
 ---
 
 <div align="center">
