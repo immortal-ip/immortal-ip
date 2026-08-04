@@ -1,39 +1,33 @@
-<h1 align="center">Akshay Jaat</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Python Developer</strong> • <strong>Discord Bot Developer</strong>
-</p>
+# Akshay Jaat
 
-<p align="center">
-Building reliable software, automation tools, and modern Discord applications.
-</p>
+Python Developer
+
+Building software with precision.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="42"/>
+
+</div>
 
 ---
 
-## About
+### Software
 
-I enjoy building clean, scalable, and maintainable applications with Python. My primary interests include Discord development, backend engineering, automation, and open-source software.
+I build Discord applications, automation tools, and backend systems using Python.
 
-## Tech Stack
+### Principles
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7"/>
-
-</p>
-
-## Principles
-
-- Write clean and maintainable code.
-- Keep learning and improving.
-- Build projects that solve real problems.
-
-## Contact
-
-- GitHub: **https://github.com/immortal-ip**
+- Simplicity
+- Performance
+- Reliability
 
 ---
 
 <p align="center">
-<i>"Simplicity is the ultimate sophistication."</i>
+
+github.com/immortal-ip
+
 </p>
