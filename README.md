@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Akshay 👋
+# Hey, I'm Akshay Jaat
 
-### 🐍 Python Developer • 🤖 Discord Bot Developer
+###  Python Developer •  Discord Bot Developer
 
 *Building awesome Discord bots & useful projects.*
 
@@ -14,14 +14,14 @@
 
 ---
 
-## 🚀 About Me
+## ! About Me
 
-- 🤖 Developing Discord Bots
-- 🐍 Python Enthusiast
-- 🌐 Learning Web Development
-- ⚡ Interested in AI & Automation
+~ Developing Discord Bots
+~ Python Enthusiast
+~ Learning Web Development
+~ Interested in AI & Automation
 
-## 🛠 Tech Stack
+## ! Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,discord,js,html,css,git,vscode" />
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 💜 Thanks for visiting!
+###  Thanks for visiting!
 
 *"Code • Learn • Repeat"*
 
