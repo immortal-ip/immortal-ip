@@ -1,36 +1,33 @@
-<div align="center">
+<h1 align="center">Akshay</h1>
 
-# Hey, I'm Akshay Jaat
+<p align="center">
+Python Developer • Discord Bot Developer
+</p>
 
-###  Python Developer •  Discord Bot Developer
-
-*Building awesome Discord bots & useful projects.*
-
-<a href="https://github.com/immortal-ip">
-    <img src="https://img.shields.io/badge/GitHub-immortal--ip-181717?style=for-the-badge&logo=github">
-</a>
-
-</div>
+<p align="center">
+Building software with simplicity and performance in mind.
+</p>
 
 ---
 
-## ! About Me
+### About
 
-~ Developing Discord Bots
-~ Python Enthusiast
-~ Learning Web Development
-~ Interested in AI & Automation
+Developer from India with an interest in Python, backend development, automation, and Discord applications.
 
-## ! Tech Stack
+### Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,discord,js,html,css,git,vscode" />
-</p>
+- Python
+- Discord.py
+- JavaScript
+- HTML & CSS
+- Git
 
-<div align="center">
+### Currently
 
-###  Thanks for visiting!
+- Developing Discord bots
+- Learning backend technologies
+- Building open-source projects
 
-*"Code • Learn • Repeat"*
+---
 
-</div>
+> "Keep building."
