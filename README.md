@@ -1,36 +1,56 @@
-<div align="center">
+# 👋 Hi, I'm Akshay
 
-  ᴀᴋsʜᴀʏ ᴊᴀᴀᴛ
+💻 Python Developer | Discord Bot Developer | Web Developer
 
-### ᴘʏᴛʜᴏɴ ᴅᴇᴠ | ᴅɪsᴄᴏʀᴅ ᴅᴇᴠ | ᴛᴏᴏʟs ᴅᴇᴠ
-
-ʙᴜɪʟᴅɪɴɢ ᴜsᴇғᴜʟ ᴘʀᴏᴊᴇᴄᴛs ᴡɪᴛʜ ᴘʏᴛʜᴏɴ !!
-
-</div>
+I enjoy building useful applications, Discord bots, and experimenting with new technologies. My goal is to create clean, fast, and reliable projects while continuously improving my programming skills.
 
 ---
 
-##  ᴛᴇᴄʜ sᴛᴀᴄᴋ
+## 🚀 About Me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,github,git,vscode,windows" />
-
-</div>
-
----
-
-##  ᴀʙᴏᴜᴛ ᴍᴇ
-* ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-* ᴅɪsᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-* ᴛᴏᴏʟs & ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ
-* ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ sᴛᴜғғ ғᴏʀ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ
+- 🐍 Python Developer
+- 🤖 Discord Bot Developer
+- 🌐 Learning Web Development
+- 📚 Always learning something new
+- ⚡ Interested in Automation & AI
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-### ─ ᴘᴇᴀᴄᴇ ─
+### Languages
+- Python
+- JavaScript
+- HTML
+- CSS
 
+### Tools
+- Git
+- GitHub
+- VS Code
+- SQLite
 
-</div>
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 🌟 Goals
+
+- Build better open-source projects
+- Learn advanced Python
+- Improve backend development
+- Create useful tools for the community
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/immortal-ip
+
+---
+
+⭐ Thanks for visiting my profile!
