@@ -1,33 +1,39 @@
 <h1 align="center">Akshay</h1>
 
 <p align="center">
-Python Developer • Discord Bot Developer
+  <strong>Python Developer</strong> • <strong>Discord Bot Developer</strong>
 </p>
 
 <p align="center">
-Building software with simplicity and performance in mind.
+Building reliable software, automation tools, and modern Discord applications.
 </p>
 
 ---
 
-### About
+## About
 
-Developer from India with an interest in Python, backend development, automation, and Discord applications.
+I enjoy building clean, scalable, and maintainable applications with Python. My primary interests include Discord development, backend engineering, automation, and open-source software.
 
-### Stack
+## Tech Stack
 
-- Python
-- Discord.py
-- JavaScript
-- HTML & CSS
-- Git
+<p>
 
-### Currently
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7"/>
 
-- Developing Discord bots
-- Learning backend technologies
-- Building open-source projects
+</p>
+
+## Principles
+
+- Write clean and maintainable code.
+- Keep learning and improving.
+- Build projects that solve real problems.
+
+## Contact
+
+- GitHub: **https://github.com/immortal-ip**
 
 ---
 
-> "Keep building."
+<p align="center">
+<i>"Simplicity is the ultimate sophistication."</i>
+</p>
