@@ -1,47 +1,44 @@
-```md
 <div align="center">
 
-# ʜɪ, ɪ'ᴍ **ᴀᴋsʜᴀʏ** 👋
+# Hey, I'm Akshay 👋
 
-### 🐍 ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ • 🤖 ᴅɪsᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠ
+### 🐍 Python Developer • 🤖 Discord Bot Developer
 
-> *"Building useful projects, one line of code at a time."*
+*Building awesome Discord bots & useful projects.*
+
+<a href="https://github.com/immortal-ip">
+    <img src="https://img.shields.io/badge/GitHub-immortal--ip-181717?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-- 🐍 Python Developer
-- 🤖 Building Discord Bots
+- 🤖 Developing Discord Bots
+- 🐍 Python Enthusiast
 - 🌐 Learning Web Development
-- 🚀 Exploring AI & Automation
-- 📚 Always learning new technologies
+- ⚡ Interested in AI & Automation
 
----
+## 🛠 Tech Stack
 
-## ⚡ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,discord,js,html,css,git,vscode" />
+</p>
 
-`Python` • `Discord.py` • `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub`
+## 🎯 Current Projects
 
----
-
-## 🚧 Current Focus
-
-✨ Multipurpose Discord Bots  
-🎵 Music Bots  
-⚙️ Automation Projects
+- 🎵 Hinox Music Bot
+- 🤖 Multipurpose Discord Bot
+- 🌍 Personal Projects
 
 ---
 
 <div align="center">
 
-### 🌙 「 ᴄᴏᴅᴇ • ʙᴜɪʟᴅ • ɪᴍᴘʀᴏᴠᴇ 」
+### 💜 Thanks for visiting!
 
-**GitHub:** https://github.com/immortal-ip
-
-⭐ **Thanks for visiting my profile!**
+*"Code • Learn • Repeat"*
 
 </div>
-```
